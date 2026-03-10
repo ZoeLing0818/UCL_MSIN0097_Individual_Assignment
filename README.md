@@ -1,4 +1,4 @@
-# MSIN0097 Predictive Analytics - Individual Assignment (VWNP8)
+# MSIN0097 Predictive Analytics - Individual Assignment
 
 ## 1. Project Overview
 This project predicts bank customer attrition (`Attrition_Flag`) using a reproducible ML pipeline.
